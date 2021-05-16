@@ -78,14 +78,14 @@ a:hover{
   height: 150px;
   width: 150px;
   position: absolute;
-  left: 300px;
+  left: 20%;
   bottom: 200px;
 }
 .top-cloud{
   height: 150px;
   width: 150px;
   position: absolute;
-  right: 300px;
+  right: 25%;
   top: 50px;
 }
 .skill-row{
